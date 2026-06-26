@@ -14,7 +14,7 @@
       <value name="tags"></value>
       <value name="since"></value>
       <value name="deprecated"></value>
-      <value name="is_visible"></value>
+    
       <value name="field_type">record</value>
       <value name="field_dim">0</value>
       <value name="wrapper_type">IData</value>
@@ -137,4 +137,5 @@
   <null name="originURI"/>
   <value name="modifiable">true</value>
   <value name="is_public">true</value>
+<value name="is_visible">true</value>
 </Values>
